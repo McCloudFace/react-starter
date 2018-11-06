@@ -9,6 +9,10 @@
   "private": true,
   "author": "Jeff Chasin",
   "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/McCloudFace/react-starter.git"
+  }
   "devDependencies": {
     "@babel/cli": "^7.1.0",
     "@babel/core": "^7.1.2",
